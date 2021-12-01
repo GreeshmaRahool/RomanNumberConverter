@@ -1,8 +1,20 @@
 # Arabic - Roman Converter
 
 The project demonstrates arabic-roman converters.
-There is no need to be able to convert numbers larger than about 3000.
- consider the example of 1989.
+
+The Romans wrote numbers using letters - I, V, X, L, C, D, M.
+
+ 1  => I 
+ 
+ 10  => X 
+ 
+ 7  => VII
+
+
+
+There is no need to convert numbers larger than 3000.
+ 
+ Consider the example of 1989.
 
 In Roman numerals 1989 is MCMLXXXIX:
 
